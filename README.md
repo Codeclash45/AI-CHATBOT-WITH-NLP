@@ -1,4 +1,18 @@
-# AI Chatbot With NLP
+COMPANY : CODTECH IT SOLUTIONS
+
+NAME : Souvik Shomenath Dutta
+
+INTERN I'D : CT06DH660
+
+DOMAIN : Python Programming
+
+DURATION : 4 WEEKS
+
+MENTOR : NEELA SANTOSH
+
+DESCRIPTION : 
+
+# PROJECT TITLE : AI Chatbot With NLP
 
 A simple AI chatbot built using Natural Language Processing (NLP) techniques.
 
