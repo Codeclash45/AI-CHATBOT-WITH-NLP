@@ -44,3 +44,7 @@ Conclusion
 
 This "Chatty" chatbot project provides a foundational understanding of building interactive conversational agents using Python and NLP techniques. By combining rule-based pattern matching for numerical operations with spaCy's powerful semantic similarity for intent recognition, the chatbot can handle a variety of user queries. While simple, it demonstrates core concepts such as natural language understanding, response generation, and basic dialogue management. Future enhancements could involve expanding the intent library, incorporating more sophisticated dialogue flows, integrating external APIs for real-time information, and implementing machine learning models for more robust and scalable intent classification beyond just semantic similarity thresholds. This project serves as an excellent stepping stone for developing more complex and intelligent conversational AI systems.
 
+
+
+
+<img width="1529" height="872" alt="Image" src="https://github.com/user-attachments/assets/71603358-7d5c-4931-aab2-8d4775626696" />
